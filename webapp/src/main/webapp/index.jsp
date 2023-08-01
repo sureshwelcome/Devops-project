@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou !for testi ob nw=#@@ !##supper jenkins, Happy Learning </h1>
+   <h1> Thankyou !for testing success j ob nw=#@@ !##supper jenkins, Happy Learning </h1>
 
   
 </form>
